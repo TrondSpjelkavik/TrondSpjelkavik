@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @TrondSpjelkavik
-- 👀 I’m interested in JavaScript(Nextjs) & Go
+- 👀 I’m interested in JavaScript(Vuejs) & Go
 - 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on any Nextjs or Go projects
+- 💞️ I’m looking to collaborate on any Go projects
 - 📫 How to reach me trond.spjelkavik@gmail.com
+- Currently working as Software Developer
 
 <!---
 TrondSpjelkavik/TrondSpjelkavik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
